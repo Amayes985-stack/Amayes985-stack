@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 <br>Just a chill guy, ambitious and passionate Software Engineering Graduate building useful solutions for the Open Source and Computer Science ;)) 
 
 
